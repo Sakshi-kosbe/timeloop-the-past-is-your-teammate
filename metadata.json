@@ -1,0 +1,6 @@
+{
+  "name": "TIMELOOP: The Past Is Your Teammate",
+  "description": "A mind-bending sci-fi puzzle game where your past actions become teammates through 30-second temporal echo loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
